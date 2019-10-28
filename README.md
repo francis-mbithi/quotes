@@ -2,14 +2,30 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.13.
 
-# By *Francis Mbithi*
+# By Francis Mbithi
 
 # Description
 This is a simple Angular 5 application that allows you to create quotes which allows one to add, upvote, downvote or delete a quote.
 
+# User Requirement
+The applications allows users to do the following:
+
+-Create a new quote.
+-Upvote or downvote a quote.
+-Delete a quote
+-See the number of upvotes and number of downvotes for each quote.
+
+# Setup/Installation Requirments
+-Clone or download and unzip the repository from github,
+-If you have git Use this command *git clone*  to clone the project.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+# Technologies
+-Angular CLI
+-Bootstrap
 
 ## Code scaffolding
 
@@ -27,6 +43,16 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
+# Behaviour Driven Development
+Input	                     Ouput
+User clicks Post Quote	   Quote form displays with input fields for Author, Publisher
+User Clicks Delete	   The quote is purged from view
+User clicks Upvote	   upvote is incremented value by 1 on each click
+User clicks Downvote	   downvote is decremented value by 1 on each click
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+# LIcense
+This project is licensed under the MIT Open Source license Copyright (c) 2019. Francis Mbithi
