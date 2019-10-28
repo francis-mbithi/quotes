@@ -4,6 +4,6 @@ import { Directive, ElementRef } from '@angular/core';
 })
 export class HighlightDirective {
   constructor(elem:ElementRef) {
-    elem.nativeElement.style.backgroundColor="aquamarine"
+    elem.nativeElement.style.backgroundColor="rgb(26, 158, 114)"
    }
 }
