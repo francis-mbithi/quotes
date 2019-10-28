@@ -7,7 +7,7 @@ import {Quote} from '../quote';
 })
 export class QuoteComponent implements OnInit {
   quotes=[new Quote("Toyota","Yoda","DO OR DO NOT.THERE IS NO TRY"),
-  new Quote("KANU","Mzee Jomo Kenyatta","HARAMBEEE...NYAYO!")]
+  new Quote("KANU","Mzee Jomo Kenyatta","HARAMBEEE...NYAYO")]
   preNum:number
   lastNum:number
   counter:number
