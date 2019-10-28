@@ -1,9 +1,8 @@
-.myQuote{
-    padding: 15px;
-  }
-  
-  .container-fluid{
+.container-fluid{
     text-align: center;
     background-color:aquamarine;
     font-family: 'Times New Roman', Times, serif;
-  }
+}
+.form-group{
+    text-align: center;
+}
