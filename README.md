@@ -45,10 +45,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 # Behaviour Driven Development
 * Input	                     Output
-* User clicks Post Quote	   Quote form displays with input fields for Author, Publisher
-* User Clicks Delete	   The quote is purged from view
-* User clicks Upvote	   upvote is incremented value by 1 on each click
-* User clicks Downvote	   downvote is decremented value by 1 on each click
+* User clicks Post Quote	  -Quote form displays with input fields for Author, Publisher
+* User Clicks Delete	   -The quote is purged from view
+* User clicks Upvote	   -upvote is incremented value by 1 on each click
+* User clicks Downvote	   -downvote is decremented value by 1 on each click
 
 ## Further help
 
