@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # By Francis Mbithi
 
 # Description
-This is a simple Angular 5 application that allows you to create quotes which allows one to add, upvote, downvote or delete a quote.
+This is a simple Angular application that allows you to create quotes which allows one to add, upvote, downvote or delete a quote.
 
 # User Requirement
 The applications allows users to do the following:
